@@ -1,0 +1,2 @@
+#!/bin/bash
+kubectl config use-context $(kubectl config get-contexts | awk '{print $1}' | fzf)

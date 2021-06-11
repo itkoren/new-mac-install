@@ -1,0 +1,5 @@
+#!/bin/bash
+unset KUBECONFIG
+SUFFIX=$(md5 -q ~/.kube/config)
+cp ~/.kube/config ~/.kube/config.${SUFFIX}
+export KUBECONFIG=~/.kube/config.${SUFFIX}

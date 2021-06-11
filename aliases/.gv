@@ -1,0 +1,2 @@
+#!/bin/bash
+kubectl exec -it `kubectl get pods --no-headers=true -o custom-columns=':metadata.name' | grep helm-operator` -- curl  http://edge-tweety/v1/values

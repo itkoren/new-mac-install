@@ -1,0 +1,64 @@
+total 24
+drwxrwxr-x  63 root     admin  2016 Jun  2 13:36 .
+drwxr-xr-x  20 root     wheel   640 Jan  1  2020 ..
+-rw-r--r--@  1 itkoren  admin  8196 Jun  2 13:47 .DS_Store
+-rw-r--r--   1 root     wheel     0 Jan  1  2020 .localized
+drwxr-xr-x   3 itkoren  staff    96 May 25 18:20 1Password 7.app
+drwxr-xr-x   3 itkoren  staff    96 Oct  8  2019 Alfred 3.app
+drwxr-xr-x@  3 root     wheel    96 May 31 12:49 Amphetamine.app
+drwxr-xr-x@  3 itkoren  staff    96 Aug 26  2020 Authy Desktop.app
+drwxr-xr-x   3 itkoren  staff    96 Feb 20  2019 BetterTouchTool.app
+drwxr-xr-x@  3 itkoren  staff    96 May 20 12:39 BloomRPC.app
+drwxr-xr-x@  3 root     wheel    96 Oct 25  2020 Boop.app
+drwxr-xr-x@  3 itkoren  staff    96 Feb  1 11:01 CLion.app
+drwxr-xr-x   3 itkoren  staff    96 Nov 29  2020 CodeRunner.app
+drwxr-xr-x@  3 root     wheel    96 May 26 07:36 Day One.app
+drwxr-xr-x@  3 itkoren  staff    96 May  5  2020 DeltaWalker.app
+drwxr-xr-x   3 itkoren  admin    96 May 25 11:26 Docker.app
+drwxrwxrwx@  3 itkoren  staff    96 Mar 27 23:31 Emacs.app
+drwxr-xr-x@  3 itkoren  admin    96 Apr 23 10:44 ExpanDrive.app
+drwxr-xr-x@  3 root     wheel    96 May 26 07:37 Fantastical.app
+drwxr-xr-x   3 itkoren  staff    96 Sep 17  2019 Franz.app
+drwxr-xr-x@  3 root     wheel    96 Apr  6 23:24 GarageBand.app
+drwxr-xr-x@  3 itkoren  staff    96 Jun 22  2018 Gas Mask.app
+drwxrwxr-x@  3 itkoren  admin    96 May 24 02:38 Google Chrome.app
+drwxr-xr-x   3 root     wheel    96 May 26 07:44 Google Docs.app
+drwxr-xr-x   3 root     wheel    96 May 26 07:44 Google Drive.app
+drwxr-xr-x   3 root     wheel    96 May 26 07:44 Google Sheets.app
+drwxr-xr-x   3 root     wheel    96 May 26 07:44 Google Slides.app
+drwxr-xr-x@  3 itkoren  staff    96 May  2 08:27 IntelliJ IDEA.app
+drwxr-xr-x@  3 root     wheel    96 May 26 07:26 Jira.app
+drwxr-xr-x@  3 itkoren  staff    96 Aug 15  2018 KeepingYouAwake.app
+drwxr-xr-x@  3 root     wheel    96 Jun  2 07:51 Keynote.app
+drwxr-xr-x@  3 itkoren  staff    96 Aug 25  2020 Kitematic.app
+drwxr-xr-x   3 root     wheel    96 May 26  2019 Medis.app
+drwxr-xr-x   3 itkoren  admin    96 Apr 27 21:19 Moom.app
+drwxr-xr-x@  3 root     wheel    96 Jun  2 07:56 Numbers.app
+drwxr-xr-x@  3 root     wheel    96 Jun  2 07:41 Pages.app
+drwxr-xr-x@  3 itkoren  staff    96 Sep 24  2018 Paste.app
+drwxr-xr-x   3 itkoren  staff    96 Apr  5 13:26 Paw.app
+drwxr-xr-x@  3 itkoren  staff    96 Mar  5 14:48 Proxyman.app
+drwxr-xr-x@  3 itkoren  staff    96 Nov 13  2020 Royal TSX.app
+drwxr-xr-x@  3 root     wheel    96 Jan  1  2020 Safari.app
+drwxrwxr-x   3 root     admin    96 Jan 17 19:15 SentinelOne
+drwxr-xr-x@  3 itkoren  staff    96 Apr  3  2016 Sequel Pro.app
+drwxr-xr-x   3 itkoren  staff    96 Nov 11  2020 Skitch.app
+drwxr-xr-x   3 itkoren  staff    96 May  7 12:39 Slack.app
+drwxr-xr-x@  3 itkoren  staff    96 Mar  2 18:51 Spotify.app
+drwxr-xr-x   3 itkoren  admin    96 May  5 07:33 Strongsync.app
+drwxr-xr-x   3 itkoren  staff    96 Jun 28  2020 Sublime Text.app
+drwxr-xr-x   3 itkoren  staff    96 Apr 27 10:20 TextExpander.app
+drwxr-xr-x   3 itkoren  staff    96 Jun  2 13:26 Tower.app
+drwxr-xr-x@  3 itkoren  staff    96 Oct 24  2018 Transmit.app
+drwxr-xr-x   3 root     wheel    96 Apr 23 17:28 Tunnelblick.app
+drwxr-xr-x@  3 root     wheel    96 Mar 24 07:51 Tweetbot.app
+drwxr-xr-x   3 root     wheel    96 Jan  1  2020 Utilities
+drwxr-xr-x   3 root     admin    96 Jan 13  2020 VirtualBox.app
+drwxr-xr-x   3 itkoren  staff    96 Jun  2 13:36 Viscosity.app
+drwxr-xr-x@  3 itkoren  admin    96 Mar 10 23:02 Visual Studio Code.app
+drwxr-xr-x@  3 itkoren  admin    96 Jun  2  2020 Waltr 2.app
+drwxr-xr-x   3 itkoren  admin    96 Jun  2 07:11 Wavebox 10.app
+drwxr-xr-x@  3 itkoren  staff    96 May 10 10:45 WebStorm.app
+drwxr-xr-x@  3 root     wheel    96 Feb  1 23:59 Xcode.app
+drwxr-xr-x   3 itkoren  staff    96 May 30 08:01 iTerm.app
+drwxr-xr-x   3 itkoren  wheel    96 May 25 16:35 zoom.us.app

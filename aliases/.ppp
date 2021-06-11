@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "$(pbpaste -Prefer txt)" > ~/t.yaml
+kubectl apply -f ~/t.yaml
